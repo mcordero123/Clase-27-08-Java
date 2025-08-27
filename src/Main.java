@@ -27,6 +27,6 @@ public class Main {
         System.out.println(a!=b);
         System.out.println(a<b && c<b);
         System.out.println(a>b && c<b);
-        System.out.println(a>b || c<b);
+        System.out.println(a>b || c<b);d
     }
 }
